@@ -20,8 +20,8 @@ def geneTCN():
     n_classes = 1
     kernel_size = 8
     dropout = 0.05
-    hidden_units_per_layer = 25
-    levels = 5
+    hidden_units_per_layer = 32
+    levels = 8
     channel_sizes = [hidden_units_per_layer] * levels
     
     model = TCN_allhidden(input_channels, n_classes, channel_sizes, kernel_size=kernel_size, dropout=dropout)
