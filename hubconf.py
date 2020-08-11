@@ -20,7 +20,7 @@ def geneTCN():
     n_classes = 1
     kernel_size = 8
     dropout = 0.05
-    hidden_units_per_layer = 32
+    hidden_units_per_layer = 25
     levels = 5
     channel_sizes = [hidden_units_per_layer] * levels
     
