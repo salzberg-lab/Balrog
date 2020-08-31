@@ -1,7 +1,7 @@
 # Bacterial Annotation by Learned Representation Of Genes
 
 <!-- badges: start -->
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salzberg-lab/Balrog/blob/master/notebooks/Balrog_0.2.1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salzberg-lab/Balrog/blob/master/notebooks/Balrog_0.3.0.ipynb)
 <!--badges: end -->
 ![Balrog](images/balrog.jpg)
 
