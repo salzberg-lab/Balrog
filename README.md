@@ -13,4 +13,10 @@ Paper link forthcoming...
 ![Balrog](images/balrog.jpg)
 
 ## Getting started
-Click the "Open in Colab" button above or [click here](https://colab.research.google.com/github/salzberg-lab/Balrog/blob/master/notebooks/Balrog_0.3.1.ipynb) to get started. Because Balrog uses a complex gene model and performs alignment-based search with mmseqs2, each genome takes ~10-15 minutes to process. Feel free to open a GitHub issue if you run into problems or would like a command line version of Balrog.
+Click the "Open in Colab" button above or [click here](https://colab.research.google.com/github/salzberg-lab/Balrog/blob/master/notebooks/Balrog_0.3.1.ipynb) to get started. 
+
+Press the play button on the left side of each cell to run it. Alternatively, hold shift or ctrl and press enter to run cells.
+Double click the top of a cell to inspect the code inside and change things. Double click the right side of the cell to hide the code.
+Have fun!
+
+Because Balrog uses a complex gene model and performs alignment-based search with mmseqs2, each genome takes ~10-15 minutes to process. Feel free to open a GitHub issue if you run into problems or would like a command line version of Balrog.
