@@ -1,7 +1,7 @@
 # Bacterial Annotation by Learned Representation Of Genes
 
 <!-- badges: start -->
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salzberg-lab/Balrog/blob/master/notebooks/Balrog_0.3.1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/salzberg-lab/Balrog/blob/master/notebooks/Balrog_0.3.2.ipynb)
 <!--badges: end -->
 
 
@@ -13,7 +13,7 @@ Preprint avaialable on bioRxiv [here](https://www.biorxiv.org/content/10.1101/20
 ![Balrog](images/balrog.jpg)
 
 ## Getting started
-Click the "Open in Colab" button above or [click here](https://colab.research.google.com/github/salzberg-lab/Balrog/blob/master/notebooks/Balrog_0.3.1.ipynb) to get started. 
+Click the "Open in Colab" button above or [click here](https://colab.research.google.com/github/salzberg-lab/Balrog/blob/master/notebooks/Balrog_0.3.2.ipynb) to get started. 
 
 Press the play button on the left side of each cell to run it. Alternatively, hold shift or ctrl and press enter to run cells.
 Double click the top of a cell to inspect the code inside and change things. Double click the right side of the cell to hide the code.
